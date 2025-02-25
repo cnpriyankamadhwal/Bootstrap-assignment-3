@@ -1,0 +1,125 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* navbar */
+.navbar {
+    background-color: #333 !important;
+    position: relative;
+    padding: 30px;
+}
+
+.nav-link {
+    color: #ffffff6d;
+}
+
+.nav-link:hover {
+    color: #fff;
+}
+
+.navbar-brand {
+    color: white;
+    position: absolute;
+    left: 100px;
+}
+
+.navbar-nav {
+    position: absolute;
+    right: 100px;
+}
+
+/* hero-section */
+
+.card {
+    padding: 40px;
+    background-color: #f1f1f1;
+    border: none;
+}
+
+.card-body {
+    text-align: center;
+}
+
+.card-title {
+    font-size: 45px;
+}
+
+/* about-us */
+
+
+.about-us {
+    width: 1200px;
+    margin: 50px auto;
+    background-color: #fff;
+}
+
+.about-us h2 {
+    margin-bottom: 10px;
+}
+
+
+/* program */
+
+
+.cards h2 {
+    margin-left: 170px;
+}
+
+.cards {
+    position: relative;
+    height: 500px;
+}
+
+.card-1 {
+    position: absolute;
+    top: 100px;
+    left: 170px;
+}
+
+.card-2 {
+    position: absolute;
+    top: 100px;
+    left: 40%;
+}
+
+.card-3 {
+    position: absolute;
+    top: 100px;
+    right: 170px;
+}
+
+/* admission */
+.admission {
+    width: 1200px;
+    margin: 50px auto;
+}
+
+/* form */
+
+#form-control {
+    background-color: #f1f1f1;
+    padding: 20px;
+}
+
+.width {
+    width: 1200px;
+    margin: 50px auto;
+}
+
+.form {
+    /* width: 100%; */
+    background-color: #f1f1f1;
+}
+
+/*footer */
+footer p {
+    text-align: center;
+    color: white;
+}
+
+footer {
+    background-color: #333;
+    padding: 20px;
+}
